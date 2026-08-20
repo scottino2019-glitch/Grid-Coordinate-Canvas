@@ -1,0 +1,6 @@
+{
+  "name": "Grid Coordinate Canvas",
+  "description": "A precision grid-based drawing canvas that tracks and displays real-time coordinates, measurements, and point data for every stroke.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
